@@ -30,12 +30,6 @@ analitik düşünebilen biriyim. Kendimi sürekli geliştirmeye ve yeni becerile
         <li>Bilgisayar Programcılığı</li>
         <li>(10/2023 - Mevcut)</li>
       </ul>
-      <h4>💼 İş Deneyimi</h4>
-      <ul>
-        <li><strong>PTT - Stajyer</strong></li>
-        <li>(11/08/2025 - 05/09/2025)</li>
-        <li>Veri girişi, veri tabanı kontrolü ve sistem kayıtlarının yönetimi.</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🗣️ Dil Becerileri</h4>
@@ -43,8 +37,8 @@ analitik düşünebilen biriyim. Kendimi sürekli geliştirmeye ve yeni becerile
         <li><strong>Türkçe:</strong> Anadil</li>
         <li><strong>İngilizce:</strong>
           <ul>
-            <li>Dinleme: B1 | Okuma: B1]</li>
-            <li>Yazma: A2 | Konuşma: A2</li>
+            <li>Dinleme: B1 | Okuma:B1</li>
+            <li>Yazma: A2 | Konuşma:A2</li>
           </ul>
         </li>
       </ul>
@@ -64,30 +58,34 @@ analitik düşünebilen biriyim. Kendimi sürekli geliştirmeye ve yeni becerile
 *   **KOSGEB Girişimcilik Eğitimi:** Girişimcilik sertifikası.
 *   **Matematiksel Yetkinlik ve Fen-Teknoloji:** Gençlik Merkezi Temel Yeterlilikler eğitimi (18.02.2023).
 *   **AFAD Gönüllüsü:** Afet Bilinci ve Eğitimi programı katılımı (03.01.2025).
+*   **Pupilica C# Eğitimi:** C# İleri Etkinliği (23/03/2026-22/04/2026)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 ## :file_folder: Projeler
 
-### 🎮 Akıl Adası (02/2025 - Mevcut)
-İlkokul seviyesi çocuklara çeşitli dersleri oyunlarla eğlendirerek öğretmeyi amaçlayan web tabanlı oyun projesi.
-
+### 🎮 Akıl Adası (02/2025 - 07/2025)
+İlkokul seviyesi çocuklara çeşitli dersleri oyunlarla eğlendirerek öğretmeyi amaçlayan web tabanlı oyun projesi. <br>
+### 🛠️ Kullanılan Teknolojiler
+- HTML5
+- CSS3
+- JavaScript
+- Web API <br>
+[Akıl Adası](https://github.com/irem1206/Akil-Adasi)
 ### 🎓 Öğrenci Ders Kayıt Sistemi
 PHP ve MySQL kullanılarak geliştirilen, öğrencilerin ders kayıtlarını yönetmeyi sağlayan web uygulamasıdır.
 *   **Özellikler:** Öğrenci ekleme, silme ve düzenleme; ders ekleme ve öğrencilere ders atama; veritabanı ile kalıcı veri saklama.
 <br>
-<a href="https://github.com/irem1206/kayit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irem1206&repo=kayit&theme=tokyonight" />
-</a>
+<a href="https://github.com/irem1206/kayit">Öğrenci Ders Kayıt Sistemi</a>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ### 📱 Kişisel Rehber Uygulaması
 C# dili ve Windows Forms ara yüzü kullanılarak geliştirilmiş kişisel rehber uygulamasıdır. Kullanıcıların ad, soy ad, telefon ve e
 posta bilgileri XML formatı olarak kaydedilmekte ve okunabilmektedir. Veriler XML dosyası ile kalıcı hale getirilmiştir. Ara yüz
 tasarımı ve veri yönetimi Visual Studio ortamında gerçekleştirilmiştir.
 <br>
-<a href="https://github.com/irem1206/C-ile-XML-tabanl-ki-isel-rehber-uygulamas-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irem1206&repo=C-ile-XML-tabanl-ki-isel-rehber-uygulamas-&theme=tokyonight" />
+[Kişisel Rehber Uygulaması](https://github.com/irem1206/kisisel-rehber-uygulamasi)
 </a>
-
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :wrench: Teknolojik Yetkinlikler
